@@ -1,2 +1,2 @@
 # Privacy-Policy
-PrivacyPolicy {"PrivacyPolicyUrl":"https://pan.wps.cn/l/sgdcpbg", "platform":"iOS"}
+PrivacyPolicy {"PrivacyPolicyUrl":"https://shimo.im/docs/736IizVq7AckHaVe", "platform":"iOS"}
